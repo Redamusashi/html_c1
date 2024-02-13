@@ -1,0 +1,8 @@
+title{
+display: flex;
+
+    border: 10px solid red;
+    background-color: blue;
+    flex-direction: row;
+
+}
