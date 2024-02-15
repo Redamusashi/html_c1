@@ -1,8 +1,33 @@
-title{
-display: flex;
 
-    border: 10px solid red;
-    background-color: blue;
-    flex-direction: row;
 
-}
+body {
+    
+   
+    background-color: hsl(188, 61%, 88%);
+    border-spacing: 10cm;
+    border-style: dashed;
+    border-color: black;
+    float: justify;
+  }
+
+  h1 {
+    float: center;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h2 {
+    float: center;
+    color: #146930;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  p {
+    align-content: center;
+    color: greenyellow;
+    float: center;
+  }
+  header {
+    color: red;
+    border-spacing: 50px;
+    float: right;
+  }
